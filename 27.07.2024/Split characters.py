@@ -1,0 +1,2 @@
+string="geeks"
+print([*string])
