@@ -1,0 +1,2 @@
+print("geeks")
+print("geeksforgeeks")
